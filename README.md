@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 📫 How to reach me **albaaericklee@gmail.com**
+- 📫 For collaborations, reach out to me at: **albaaericklee@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">My Socials:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aerick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aerick-lee-alba-74a795344/)
-[![Facebook](https://img.shields.io/badge/Facebook-Aerick-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aerickalba)
-[![YouTube](https://img.shields.io/badge/YouTube-Web%20Z7t-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@web-z7t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aerick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aerick-lee-alba-74a795344/) <br>
+[![Facebook](https://img.shields.io/badge/Facebook-Aerick-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aerickalba) <br>
+[![YouTube](https://img.shields.io/badge/YouTube-Web%20Z7t-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@web-z7t) <br>
 

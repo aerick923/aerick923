@@ -1,4 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Aerick Lee P. Alba</h1>
+---
 <h3 align="center">An Aspiring Game Developer from the Philippines</h3>
 
 ---

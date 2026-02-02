@@ -27,7 +27,7 @@
 
 ---
 
-### Find me on
+<h3 align="left">My Socials:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aerick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aerick-lee-alba-74a795344/)
 [![Facebook](https://img.shields.io/badge/Facebook-Aerick-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aerickalba)

@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aerick lee alba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aerick lee alba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aerick-lee-alba-74a795344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aerick lee alba" height="30" width="40" /></a>
 <a href="https://fb.com/aerick alba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aerick alba" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@web-z7t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@web-z7t" height="30" width="40" /></a>
 </p>
@@ -23,7 +23,7 @@
 
 ### Find me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aerick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aerickleealba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aerick-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aerick-lee-alba-74a795344/)
 [![Facebook](https://img.shields.io/badge/Facebook-Aerick-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aerickalba)
 [![YouTube](https://img.shields.io/badge/YouTube-Web%20Z7t-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@web-z7t)
 

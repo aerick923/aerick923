@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **making my portfolio**
 
-- 🌱 I’m currently learning **Java**,**Python**, and **JavaScript**
+- 🌱 I’m currently learning **Java**, **Python**, and **JavaScript**
 
 - 📫 For collaborations, reach out to me at: **albaaericklee@gmail.com**
 

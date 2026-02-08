@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **making my portfolio**
+- 🔭 I’m currently working on **PORTFOLIO-1.0**, **CONVENIENCE-STORE-1.0** , and **LMS-1.0**
 
 - 🌱 I’m currently learning **Java**, **Python**, and **JavaScript**
 
@@ -34,4 +34,3 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Web%20Z7t-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@web-z7t) <br>
 
 ---
-

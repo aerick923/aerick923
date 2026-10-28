@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PORTFOLIO-1.0**, **CONVENIENCE-STORE-1.0** , and **LMS-1.0**
 
-- 🌱 I’m currently learning **Java**, **Python**, and **JavaScript**
+- 🌱 I’m currently learning **C++**
 
 - 📫 For collaborations, reach out to me at: **albaaericklee@gmail.com**
 

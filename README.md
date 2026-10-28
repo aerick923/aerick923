@@ -9,7 +9,7 @@
 
 - 📫 For collaborations, reach out to me at: **albaaericklee@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **my favorite anime is Frieren**
 
 ---
 
